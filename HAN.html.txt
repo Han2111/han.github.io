@@ -1,0 +1,89 @@
+
+
+```html
+<!DOCTYPE html>
+<html lang="th">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>หน้าเว็บส่วนตัวของ HAN</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f7f0f5; /* พื้นหลังสีพาสเทลอ่อน */
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #ffb3ba; /* สีพาสเทล */
+            color: white;
+            padding: 10px 0;
+            text-align: center;
+        }
+        nav {
+            background-color: #ffdfba; /* สีพาสเทล */
+            padding: 10px;
+            text-align: center;
+        }
+        nav a {
+            color: #333;
+            margin: 0 15px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        .container {
+            padding: 20px;
+        }
+        .blog {
+            background-color: #bae1ff; /* สีพาสเทล */
+            padding: 15px;
+            margin-bottom: 20px;
+            border-radius: 8px;
+        }
+        footer {
+            background-color: #ffdfba; /* สีพาสเทล */
+            color: #333;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>ยินดีต้อนรับสู่หน้าเว็บส่วนตัวของ HAN</h1>
+    </header>
+    <nav>
+        <a href="#">หน้าแรก</a>
+        <a href="#">เกี่ยวกับฉัน</a>
+        <a href="#">บล็อก</a>
+        <a href="#">ติดต่อ</a>
+    </nav>
+    <div class="container">
+        <section class="about">
+            <h2>เกี่ยวกับฉัน</h2>
+            <p>สวัสดี! ฉันชื่อ HAN. ฉันสนใจในเรื่อง... (เพิ่มข้อมูลเกี่ยวกับตัวคุณที่นี่)</p>
+        </section>
+        <section class="blog">
+            <h2>บล็อกส่วนตัว</h2>
+            <article>
+                <h3>บล็อกโพสต์ 1</h3>
+                <p>นี่คือตัวอย่างข้อความสำหรับบล็อกโพสต์ของคุณ...</p>
+            </article>
+            <article>
+                <h3>บล็อกโพสต์ 2</h3>
+                <p>นี่คือตัวอย่างข้อความสำหรับบล็อกโพสต์ของคุณ...</p>
+            </article>
+        </section>
+    </div>
+    <footer>
+        <p>© 2024 HAN. All rights reserved.</p>
+    </footer>
+</body>
+</html>
+```
+
+คุณสามารถคัดลอกโค้ดนี้และบันทึกลงในไฟล์ HTML เพื่อใช้งานได้ทันที หากต้องการปรับแต่งเพิ่มเติมหรือเพิ่มข้อมูล สามารถแก้ไขได้ตามต้องการครับ
